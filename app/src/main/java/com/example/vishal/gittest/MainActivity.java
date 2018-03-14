@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle newTest) {
         super.onCreate(newTest);
         setContentView(R.layout.activity_main);
+        //comment from user1
     }
 }
