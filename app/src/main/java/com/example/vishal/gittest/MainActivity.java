@@ -7,8 +7,8 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+    protected void onCreate(Bundle newTest) {
+        super.onCreate(newTest);
         setContentView(R.layout.activity_main);
     }
 }
