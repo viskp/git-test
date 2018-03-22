@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this, "test toast", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "test toast 2 added", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "test toast 3 added", Toast.LENGTH_SHORT).show();
         //comment from user1
         //comment added for new branch "test-branch"
         //new line added in branch "master"
